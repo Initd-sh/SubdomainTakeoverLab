@@ -43,6 +43,9 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#Lab">Lab Details</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://bugs.initd.sh/">Report</a>
+            </li>
             <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">How To Play</a>
             
