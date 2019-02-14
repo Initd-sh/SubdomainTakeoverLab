@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Subdomain Takeover lab is FREE for everyone. This means here is a legal to takeover Subdomain of this website not my Personal Domain.">
@@ -43,9 +41,7 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#Lab">Lab Details</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://bugs.initd.sh/">Report</a>
-            </li>
+
             <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">How To Play</a>
             
@@ -56,7 +52,17 @@
               <div class="dropdown-divider"></div>
               <a class="dropdown-item js-scroll-trigger" href="#donate">Donate</a>
             </div>
-            </li>        
+            </li>
+            
+            <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Links</a>
+             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item js-scroll-trigger" href="https://bugs.initd.sh/">Bug Report</a>
+              <a class="dropdown-item js-scroll-trigger" href="#calim-you-subdomain">Project</a>
+              <a class="dropdown-item js-scroll-trigger" href="https://blog.initd.sh/others-attacks/mis-configuration/subdomain-takeover-explained/">Blog Post</a>
+            </li>
+            
+            
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
             </li>
@@ -131,9 +137,9 @@
                   <p class="mb-0 text-white-50"><b>Its Free, But you have to follow some rules for fair playing and learning purpose.</b></p>
                   <ul>
                     <li class="mb-0 text-white-50">Do Not use this as illegal purpose.</li>
-                    <li class="mb-0 text-white-50">Once You Takeover Subdomain just take screenshot and delete your Bucket/Page etc.</li>
-                    <li class="mb-0 text-white-50">Post your Screenshot on Twitter with #SDTakeoverLab or Send me DM @touhidshaikh22 (For SubDomain Takeover Expert Page)</li>
-                    <li class="mb-0 text-white-50">Do not host any Advertisment,Pronography and Abusing Content.</li>
+                    <li class="mb-0 text-white-50">Once You Takeover Subdomain, You'll get a Confirmaiton email after. After Confirmation mail Free that Subdomain for others.</li>
+                    <li class="mb-0 text-white-50">Post your Screenshot on Twitter with #SDTakeoverLab #Initd and cc to initd_sh</li>
+                    <li class="mb-0 text-white-50">Do not Host any Advertisment,Pronography and Abusing Content on any of subdomain.</li>
                   </ul>
                   <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
@@ -224,11 +230,9 @@
         
 
             <form class="form-inline d-flex" method="POST" action="index.php#verification-you-subdomain">
-           
             <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="inputEmail"  name="email" placeholder="Enter your email address...">
             <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="subdomain" name="subdomain" placeholder="Subdomain Name...">
             <button type="submit" class="btn btn-primary mx-auto">Verify</button>
-     
             </form>
 
             
