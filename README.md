@@ -24,7 +24,7 @@ Subdomain Takeover lab is FREE for everyone. This means here is a legal to takeo
 - Tilda
 
 ## Bugs Reports
-If You Find any Bugs, Errors and Misconfiguration. **Please report on  [Inid Bugs](https://bugs.initd.sh/).**
+If You Find any Bugs, Errors and Misconfiguration. **Please report on  [InitD Bugs](https://bugs.initd.sh/).**
 
 ## Contribution
 **WE REALLY APPRECIATE.**
