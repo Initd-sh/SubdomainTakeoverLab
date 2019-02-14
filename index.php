@@ -43,9 +43,9 @@
             </li>
 
             <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">How To Play</a>
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">How To Play</a>
             
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
               <a class="dropdown-item js-scroll-trigger" href="#Rules-of-Playing">Rules & Steps of Playing</a>
               <a class="dropdown-item js-scroll-trigger" href="#calim-you-subdomain">Claim You Subdomain</a>
               <a class="dropdown-item js-scroll-trigger" href="#verification-you-subdomain">Verify Takeover</a>
@@ -307,7 +307,7 @@
                   
                   switch ($http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE)) {
                     case 200:  # OK
-                      $success = "congratulation For Successful TakeoVER";
+                      $success = "Congratulation For Successful TakeoVER";
                       return $http_code;
                       break;
                     default:
