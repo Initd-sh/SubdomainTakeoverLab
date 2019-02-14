@@ -58,7 +58,7 @@
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Links</a>
              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item js-scroll-trigger" href="https://bugs.initd.sh/">Bug Report</a>
-              <a class="dropdown-item js-scroll-trigger" href="#calim-you-subdomain">Project</a>
+              <a class="dropdown-item js-scroll-trigger" href="https://github.com/Initd-sh/SubdomainTakeoverLab">Project</a>
               <a class="dropdown-item js-scroll-trigger" href="https://blog.initd.sh/others-attacks/mis-configuration/subdomain-takeover-explained/">Blog Post</a>
             </li>
             
