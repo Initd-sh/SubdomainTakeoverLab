@@ -21,7 +21,7 @@ Subdomain Takeover lab is FREE for everyone. This means here is a legal to takeo
 - Github Page
 - Heroku
 - Tumblr
-- Tilda
+- Tilda and etc.
 
 ## Bugs Reports
 If You Find any Bugs, Errors and Misconfiguration. **Please report on  [InitD Bugs](https://bugs.initd.sh/).**
