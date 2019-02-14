@@ -2,7 +2,9 @@
 
 **Author:** [Touhid M.Shaikh](https://twitter.com/freak_crypt)
 
+## Links
 [Subdomain Takeover Article](https://blog.initd.sh/others-attacks/mis-configuration/subdomain-takeover-explained/)
+
 [More Information About Lab](https://subdomain-takeover.tk/)
 
 
