@@ -1,7 +1,9 @@
 # SubdomainTakeoverLab
 
-Good Article : https://blog.initd.sh/others-attacks/mis-configuration/subdomain-takeover-explained/ 
-For More Information About Lab: https://subdomain-takeover.tk
+**Author:** [Touhid M.Shaikh](https://twitter.com/freak_crypt)
+
+[Subdomain Takeover Article](https://blog.initd.sh/others-attacks/mis-configuration/subdomain-takeover-explained/)
+[More Information About Lab](https://subdomain-takeover.tk/)
 
 
 ## Who we are ? (InitD Community
@@ -28,3 +30,6 @@ If You Find any Bugs, Errors and Misconfiguration. **Please report on  [InitD Bu
 
 ## Contribution
 **WE REALLY APPRECIATE.**
+
+## Thank You
+[Shrutirupa](https://twitter.com/freak_crypt)
