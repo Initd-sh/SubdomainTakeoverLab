@@ -164,7 +164,7 @@
                     <li class="mb-0 text-white-50">Find Your Target Subdomain.</li>
                     <li class="mb-0 text-white-50"><a href="https://subdomain-takeover.tk/#calim-you-subdomain">Claim Your Subdomain and Generate Unique Value. This will use as a filename in further step.</a></li>
                     <li class="mb-0 text-white-50">Once You Takeover the subdomain. Make a txt file with previous generated value as a Filename and file content must be your E-Mail only.</li>
-                     <li class="mb-0 text-white-50">Command Example:<pre>echo "info@initd.sh" > d1282ee66b41e66645be96937b3d6a03.txt</pre> </li>
+                     <li class="mb-0 text-white-50">Command Example:<b>echo "info@initd.sh" > d1282ee66b41e66645be96937b3d6a03.txt</b> </li>
                     <li class="mb-0 text-white-50"><a href="https://subdomain-takeover.tk/#verification-you-subdomain">Let's Verify your Sudomain. All Perfect or not.</a></li>
                     <li class="mb-0 text-white-50">Done.</li>
                   </ul>
