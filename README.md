@@ -5,10 +5,10 @@
 ## Links
 [Subdomain Takeover Article](https://blog.initd.sh/others-attacks/mis-configuration/subdomain-takeover-explained/)
 
-[More Information About Lab](https://subdomain-takeover.tk/)
+[Practice Lab](https://subdomain-takeover.tk/)
 
 
-## Who we are ? (InitD Community
+## Who we are ? (InitD Community)
 The name of our community would be initD indicating a daemon process that continues running until the system is shut down. So our community will be the direct or indirect ancestor of all kinds of knowledge that will be shared among us. Our community will include sharing of knowledge through hands-on sessions, Capture the Flags(CTF) and lot more. The main aim of our community is to share an InfoSec Knowledge to all and motivate beginners to build something. It may include any open source project such as application, website etc.
 
 
@@ -28,7 +28,8 @@ Subdomain Takeover lab is FREE for everyone. This means here is a legal to takeo
 - Tilda and etc.
 
 ## Bugs Reports
-If You Find any Bugs, Errors and Misconfiguration. **Please report on  [InitD Bugs](https://bugs.initd.sh/).**
+If You Find any Bugs, Errors and Misconfiguration.
+**Please report on  [InitD Bugs](https://bugs.initd.sh/).**
 
 ## Contribution
 **WE REALLY APPRECIATE.**
