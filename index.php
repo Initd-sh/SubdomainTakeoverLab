@@ -111,13 +111,13 @@
           <div class="col-xl-4 col-lg-5">
             <div class="featured-text text-center text-lg-left">
               <h4>Lab Details</h4>
-              <p class="text-black-90 mb-0"><b>Subdomain Takeover lab is FREE for everyone. This means here is a legal to takeover Subdomain of this website not my Personal Domain. hehe ;)<br>Here you'll find more than 20 subdomain which is waiting for TAKEOVER ;)</b>  </p>
+              <p class="text-black-90 mb-0"><b>Subdomain Takeover lab is FREE for everyone. This means here is a legal to takeover Subdomain of this website not my Personal Domain. hehe ;)<br>Here you'll find more than 70 subdomain which is waiting for TAKEOVER ;)</b>  </p>
                <ul>
                     <li class="mb-0 text-black-60">AWS/S3.</li>
                     <li class="mb-0 text-black-60">Github Page</li>
                     <li class="mb-0 text-black-60">Heroku</li>
                     <li class="mb-0 text-black-60">Tumblr</li>
-                    <li class="mb-0 text-black-60">Tilda</li>
+                    <li class="mb-0 text-black-60">Tilda and etc.</li>
                   </ul>
             </div>
           </div>
@@ -137,7 +137,7 @@
                   <p class="mb-0 text-white-50"><b>Its Free, But you have to follow some rules for fair playing and learning purpose.</b></p>
                   <ul>
                     <li class="mb-0 text-white-50">Do Not use this as illegal purpose.</li>
-                    <li class="mb-0 text-white-50">Once You Takeover Subdomain, You'll get a Confirmaiton email after. After Confirmation mail Free that Subdomain for others.</li>
+                    <li class="mb-0 text-white-50">Once You Takeover Subdomain, You'll get a Confirmaiton E-mail. After Confirmation mail Free that Subdomain for others.</li>
                     <li class="mb-0 text-white-50">Post your Screenshot on Twitter with #SDTakeoverLab #Initd and cc to initd_sh</li>
                     <li class="mb-0 text-white-50">Do not Host any Advertisment,Pronography and Abusing Content on any of subdomain.</li>
                   </ul>
@@ -157,14 +157,16 @@
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
-                <div class="project-text w-100 my-auto text-center text-lg-right">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
                   <h4 class="text-white">Steps Of Playing ?</h4>
                   <p class="mb-0 text-white-50">If you have<br>More Reference.
                    <ul>
-                    <li class="mb-0 text-white-50"><a href="https://github.com/EdOverflow/can-i-take-over-xyz">EdOverflow</a></li>
-                    <li class="mb-0 text-white-50"><a href="https://www.hacker101.com/vulnerabilities/subdomain_takeover.html">Hacker101</a></li>
-                    <li class="mb-0 text-white-50"><a href="https://github.com/Ice3man543/SubOver">Ice3man543</a></li>
-                    <li class="mb-0 text-white-50"><a href="https://labs.detectify.com/2014/10/21/hostile-subdomain-takeover-using-herokugithubdesk-more/">labs.detectify.com</a></li>
+                    <li class="mb-0 text-white-50">Find Your Target Subdomain.</li>
+                    <li class="mb-0 text-white-50"><a href="https://subdomain-takeover.tk/#calim-you-subdomain">Claim Your Subdomain and Generate Unique Value. This will use as a filename in further step.</a></li>
+                    <li class="mb-0 text-white-50">Once You Takeover the subdomain. Make a txt file with previous generated value as a Filename and file content must be your E-Mail only.</li>
+                     <li class="mb-0 text-white-50">Command Example:<pre>echo "info@initd.sh" > d1282ee66b41e66645be96937b3d6a03.txt</pre> </li>
+                    <li class="mb-0 text-white-50"><a href="https://subdomain-takeover.tk/#verification-you-subdomain">Let's Verify your Sudomain. All Perfect or not.</a></li>
+                    <li class="mb-0 text-white-50">Done.</li>
                   </ul>
                   <hr class="d-none d-lg-block mb-0 mr-0"></p>
                 </div>
@@ -378,7 +380,7 @@
           <div class="col-md-10 col-lg-8 mx-auto text-center">
 
             <i class="far fa fa-gift fa-2x mb-2 text-white"></i>
-            <h3 class="text-white mb-5">If you like our service.<br>You can Donate, In term of Sharing Knowledge, Contribute in our Ideas or FOSS Project and in term of Monetization</h3>
+            <h3 class="text-white mb-5">If you like our service.<br>You can Donate, In term of Sharing Knowledge, Contribute in our Ideas or FOSS Project and Donate for our hosting services</h3>
 
           </div>
         </div>
@@ -429,13 +431,10 @@
         
 
         <div class="social d-flex justify-content-center">
-          <a href="https://linkedin.com/in/initd_sh" class="mx-2">
-            <i class="fab fa-linkedin"></i>
-          </a>
-          <a href="https://www.facebook.com/initd_sh" class="mx-2">
+          <a href="https://www.facebook.com/initd.sh" class="mx-2">
             <i class="fab fa-facebook-f"></i>
           </a>
-          <a href="https://github.com/initd_sh" class="mx-2">
+          <a href="https://github.com/initd-sh" class="mx-2">
             <i class="fab fa-github"></i>
           </a>
         </div>
