@@ -159,7 +159,7 @@
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
                   <h4 class="text-white">Steps Of Playing ?</h4>
-                  <p class="mb-0 text-white-50">If you have<br>More Reference.
+                  <p class="mb-0 text-white-50">Please Follow Below Steps.
                    <ul>
                     <li class="mb-0 text-white-50">Find Your Target Subdomain.</li>
                     <li class="mb-0 text-white-50"><a href="https://subdomain-takeover.tk/#calim-you-subdomain">Claim Your Subdomain and Generate Unique Value. This will use as a filename in further step.</a></li>
